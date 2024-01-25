@@ -47,7 +47,7 @@ async function bootstrap() {
 
 export const firebirdConfig = {
   host: '127.0.0.1',
-  port: 3090,
+  port: 3050,
   database: 'C://projetos//dj-pay-asaas//data/TESTE.FDB',
   user: 'SYSDBA',
   password: 'masterkey',
